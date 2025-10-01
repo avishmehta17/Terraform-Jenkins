@@ -1,7 +1,7 @@
 # Terraform + Jenkins EC2 Automation
 ## Automate AWS EC2 provisioning using Terraform, GitHub, and Jenkins.
 
-## Project Structure
+### Project Structure
 .
 ├── backend.tf
 ├── provider.tf
